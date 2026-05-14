@@ -1,0 +1,18 @@
+# KiCad lock / autosave / backup
+*.lck
+*-backups/
+_autosave-*
+*~
+*.bak
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# KiCad fab outputs (generate, don't commit)
+gerbers/
+fab/
+*.gbr
+*.drl
+*.pos
