@@ -29,8 +29,10 @@ server. Still requires a UI pass to:
   (RP2350_80QFN symbol; same footprint accepts RP2354B).
 - `RP2350_80QFN_minimal.pretty/` — project-local footprint library
   (RP2350 QFN-80, crystal, regulator, passives).
-- `_reference_import/` — unmodified copy of the RPi reference archive,
-  kept for audit. Delete once the block is locked.
+
+The unmodified RPi reference archive used as the starting point lives
+in `~/Downloads/RP-008295-DS-1-Minimal-KiCAD rp2350/` (Raspberry Pi
+RP-006442-DD-2). Re-import from there if a clean baseline is needed.
 
 ## What's inside (post-prune, 46 placed symbols)
 
