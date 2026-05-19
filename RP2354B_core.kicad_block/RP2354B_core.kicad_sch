@@ -5425,7 +5425,7 @@
 	)
 	(text "12MHz Crystal"
 		(exclude_from_sim no)
-		(at 93.98 217.805 0)
+		(at 73.66 209.55 0)
 		(effects
 			(font
 				(size 2.54 2.54)
@@ -5495,7 +5495,7 @@
 		(uuid "34c9ab56-9e9f-4890-a1f2-f800621ee4fb")
 	)
 	(junction
-		(at 82.55 235.585)
+		(at 62.23 227.33)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "411654bf-64c2-4483-9d77-db7015239abf")
@@ -5609,7 +5609,7 @@
 		(uuid "927cad92-bb45-45e1-b647-c72a9743c16e")
 	)
 	(junction
-		(at 104.14 225.425)
+		(at 83.82 217.17)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9961c187-6470-422e-9c59-2be914979560")
@@ -5627,7 +5627,7 @@
 		(uuid "ad76922d-7e96-4d18-bc2c-e14fe44ef0fe")
 	)
 	(junction
-		(at 104.14 235.585)
+		(at 83.82 227.33)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b0785e87-af66-44dc-a2cd-11995e83074a")
@@ -5820,7 +5820,7 @@
 	)
 	(wire
 		(pts
-			(xy 92.71 235.585) (xy 104.14 235.585)
+			(xy 72.39 227.33) (xy 83.82 227.33)
 		)
 		(stroke
 			(width 0)
@@ -6020,7 +6020,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 230.505) (xy 110.49 230.505)
+			(xy 88.9 222.25) (xy 90.17 222.25)
 		)
 		(stroke
 			(width 0)
@@ -6090,7 +6090,7 @@
 	)
 	(wire
 		(pts
-			(xy 85.09 235.585) (xy 82.55 235.585)
+			(xy 64.77 227.33) (xy 62.23 227.33)
 		)
 		(stroke
 			(width 0)
@@ -6160,7 +6160,7 @@
 	)
 	(wire
 		(pts
-			(xy 82.55 235.585) (xy 82.55 238.125)
+			(xy 62.23 227.33) (xy 62.23 229.87)
 		)
 		(stroke
 			(width 0)
@@ -6190,7 +6190,7 @@
 	)
 	(wire
 		(pts
-			(xy 97.79 230.505) (xy 99.06 230.505)
+			(xy 77.47 222.25) (xy 78.74 222.25)
 		)
 		(stroke
 			(width 0)
@@ -6250,7 +6250,7 @@
 	)
 	(wire
 		(pts
-			(xy 92.71 225.425) (xy 104.14 225.425)
+			(xy 72.39 217.17) (xy 83.82 217.17)
 		)
 		(stroke
 			(width 0)
@@ -6280,7 +6280,7 @@
 	)
 	(wire
 		(pts
-			(xy 82.55 225.425) (xy 82.55 235.585)
+			(xy 62.23 217.17) (xy 62.23 227.33)
 		)
 		(stroke
 			(width 0)
@@ -6360,7 +6360,7 @@
 	)
 	(wire
 		(pts
-			(xy 104.14 234.315) (xy 104.14 235.585)
+			(xy 83.82 226.06) (xy 83.82 227.33)
 		)
 		(stroke
 			(width 0)
@@ -6490,7 +6490,7 @@
 	)
 	(wire
 		(pts
-			(xy 104.14 235.585) (xy 118.11 235.585)
+			(xy 83.82 227.33) (xy 97.79 227.33)
 		)
 		(stroke
 			(width 0)
@@ -6530,7 +6530,7 @@
 	)
 	(wire
 		(pts
-			(xy 85.09 225.425) (xy 82.55 225.425)
+			(xy 64.77 217.17) (xy 62.23 217.17)
 		)
 		(stroke
 			(width 0)
@@ -6640,7 +6640,7 @@
 	)
 	(wire
 		(pts
-			(xy 104.14 225.425) (xy 135.89 225.425)
+			(xy 83.82 217.17) (xy 115.57 217.17)
 		)
 		(stroke
 			(width 0)
@@ -6810,7 +6810,7 @@
 	)
 	(wire
 		(pts
-			(xy 104.14 226.695) (xy 104.14 225.425)
+			(xy 83.82 218.44) (xy 83.82 217.17)
 		)
 		(stroke
 			(width 0)
@@ -6840,7 +6840,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 235.585) (xy 135.89 235.585)
+			(xy 105.41 227.33) (xy 115.57 227.33)
 		)
 		(stroke
 			(width 0)
@@ -6929,7 +6929,7 @@
 		(uuid "19743f36-e9a6-4e99-a337-4623b7a936ee")
 	)
 	(label "XIN"
-		(at 135.89 225.425 180)
+		(at 115.57 217.17 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6939,7 +6939,7 @@
 		(uuid "4917bec1-22c1-4439-81d7-8d6c8b537c24")
 	)
 	(label "XOUT"
-		(at 135.89 235.585 180)
+		(at 115.57 227.33 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7619,7 +7619,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 88.9 225.425 270)
+		(at 68.58 217.17 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7628,8 +7628,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005ed96b87")
-		(property "Reference" "C3"
-			(at 90.0684 228.346 0)
+		(property "Reference" "C1"
+			(at 69.7484 220.091 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7640,7 +7640,7 @@
 			)
 		)
 		(property "Value" "15p"
-			(at 87.757 228.346 0)
+			(at 67.437 220.091 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7651,7 +7651,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 85.09 226.3902 0)
+			(at 64.77 218.1352 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7662,7 +7662,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 88.9 225.425 0)
+			(at 68.58 217.17 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7673,7 +7673,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 88.9 225.425 0)
+			(at 68.58 217.17 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7691,7 +7691,7 @@
 		(instances
 			(project "RP2354B_core"
 				(path "/94683f5c-9cd9-448e-be96-9792537b5cb8"
-					(reference "C3")
+					(reference "C1")
 					(unit 1)
 				)
 			)
@@ -7699,7 +7699,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 88.9 235.585 270)
+		(at 68.58 227.33 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7708,8 +7708,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005ed98685")
-		(property "Reference" "C4"
-			(at 90.0684 238.506 0)
+		(property "Reference" "C2"
+			(at 69.7484 230.251 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7720,7 +7720,7 @@
 			)
 		)
 		(property "Value" "15p"
-			(at 87.757 238.506 0)
+			(at 67.437 230.251 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7731,7 +7731,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 85.09 236.5502 0)
+			(at 64.77 228.2952 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7742,7 +7742,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 88.9 235.585 0)
+			(at 68.58 227.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7753,7 +7753,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 88.9 235.585 0)
+			(at 68.58 227.33 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7771,7 +7771,7 @@
 		(instances
 			(project "RP2354B_core"
 				(path "/94683f5c-9cd9-448e-be96-9792537b5cb8"
-					(reference "C4")
+					(reference "C2")
 					(unit 1)
 				)
 			)
@@ -7779,7 +7779,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 82.55 238.125 0)
+		(at 62.23 229.87 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7788,8 +7788,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005ed9b1cb")
-		(property "Reference" "#PWR08"
-			(at 82.55 244.475 0)
+		(property "Reference" "#PWR01"
+			(at 62.23 236.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7800,7 +7800,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 82.677 242.5192 0)
+			(at 62.357 234.2642 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7810,7 +7810,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 82.55 238.125 0)
+			(at 62.23 229.87 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7821,7 +7821,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 82.55 238.125 0)
+			(at 62.23 229.87 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7832,7 +7832,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 82.55 238.125 0)
+			(at 62.23 229.87 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7847,7 +7847,7 @@
 		(instances
 			(project "RP2354B_core"
 				(path "/94683f5c-9cd9-448e-be96-9792537b5cb8"
-					(reference "#PWR08")
+					(reference "#PWR01")
 					(unit 1)
 				)
 			)
@@ -7864,7 +7864,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005edc82df")
-		(property "Reference" "#PWR021"
+		(property "Reference" "#PWR010"
 			(at 198.12 250.19 0)
 			(hide yes)
 			(show_name no)
@@ -7923,7 +7923,7 @@
 		(instances
 			(project "RP2354B_core"
 				(path "/94683f5c-9cd9-448e-be96-9792537b5cb8"
-					(reference "#PWR021")
+					(reference "#PWR010")
 					(unit 1)
 				)
 			)
@@ -7940,7 +7940,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005eed9ba4")
-		(property "Reference" "#PWR022"
+		(property "Reference" "#PWR011"
 			(at 219.71 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -7999,7 +7999,7 @@
 		(instances
 			(project "RP2354B_core"
 				(path "/94683f5c-9cd9-448e-be96-9792537b5cb8"
-					(reference "#PWR022")
+					(reference "#PWR011")
 					(unit 1)
 				)
 			)
@@ -8016,7 +8016,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005eeee897")
-		(property "Reference" "C14"
+		(property "Reference" "C11"
 			(at 254.381 64.8716 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8079,7 +8079,7 @@
 		(instances
 			(project "RP2354B_core"
 				(path "/94683f5c-9cd9-448e-be96-9792537b5cb8"
-					(reference "C14")
+					(reference "C11")
 					(unit 1)
 				)
 			)
@@ -8096,7 +8096,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005eef00bb")
-		(property "Reference" "C15"
+		(property "Reference" "C12"
 			(at 265.811 64.8716 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8159,7 +8159,7 @@
 		(instances
 			(project "RP2354B_core"
 				(path "/94683f5c-9cd9-448e-be96-9792537b5cb8"
-					(reference "C15")
+					(reference "C12")
 					(unit 1)
 				)
 			)
@@ -8176,7 +8176,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005eef0473")
-		(property "Reference" "C16"
+		(property "Reference" "C13"
 			(at 277.241 64.8716 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8239,7 +8239,7 @@
 		(instances
 			(project "RP2354B_core"
 				(path "/94683f5c-9cd9-448e-be96-9792537b5cb8"
-					(reference "C16")
+					(reference "C13")
 					(unit 1)
 				)
 			)
@@ -8256,7 +8256,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005eef0994")
-		(property "Reference" "C17"
+		(property "Reference" "C14"
 			(at 288.671 64.8716 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8319,7 +8319,7 @@
 		(instances
 			(project "RP2354B_core"
 				(path "/94683f5c-9cd9-448e-be96-9792537b5cb8"
-					(reference "C17")
+					(reference "C14")
 					(unit 1)
 				)
 			)
@@ -8336,7 +8336,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005eef89b3")
-		(property "Reference" "C18"
+		(property "Reference" "C15"
 			(at 300.101 64.8716 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8399,7 +8399,7 @@
 		(instances
 			(project "RP2354B_core"
 				(path "/94683f5c-9cd9-448e-be96-9792537b5cb8"
-					(reference "C18")
+					(reference "C15")
 					(unit 1)
 				)
 			)
@@ -8416,7 +8416,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005eef89bd")
-		(property "Reference" "C20"
+		(property "Reference" "C16"
 			(at 311.531 64.8716 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8479,7 +8479,7 @@
 		(instances
 			(project "RP2354B_core"
 				(path "/94683f5c-9cd9-448e-be96-9792537b5cb8"
-					(reference "C20")
+					(reference "C16")
 					(unit 1)
 				)
 			)
@@ -8487,7 +8487,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 121.92 235.585 270)
+		(at 101.6 227.33 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8496,8 +8496,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f0d8ebf")
-		(property "Reference" "R2"
-			(at 121.92 230.3272 90)
+		(property "Reference" "R1"
+			(at 101.6 222.0722 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8507,7 +8507,7 @@
 			)
 		)
 		(property "Value" "1k"
-			(at 121.92 232.6386 90)
+			(at 101.6 224.3836 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8517,7 +8517,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 121.92 233.807 90)
+			(at 101.6 225.552 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8528,7 +8528,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 121.92 235.585 0)
+			(at 101.6 227.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8539,7 +8539,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 121.92 235.585 0)
+			(at 101.6 227.33 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8557,7 +8557,7 @@
 		(instances
 			(project "RP2354B_core"
 				(path "/94683f5c-9cd9-448e-be96-9792537b5cb8"
-					(reference "R2")
+					(reference "R1")
 					(unit 1)
 				)
 			)
@@ -8565,7 +8565,7 @@
 	)
 	(symbol
 		(lib_id "Device:Crystal_GND24")
-		(at 104.14 230.505 270)
+		(at 83.82 222.25 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8575,7 +8575,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f0dd35c")
 		(property "Reference" "Y1"
-			(at 109.22 227.965 90)
+			(at 88.9 219.71 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8586,7 +8586,7 @@
 			)
 		)
 		(property "Value" "ABM8-272-T3"
-			(at 97.79 222.885 90)
+			(at 77.47 214.63 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8597,7 +8597,7 @@
 			)
 		)
 		(property "Footprint" "Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm"
-			(at 104.14 230.505 0)
+			(at 83.82 222.25 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8608,7 +8608,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 104.14 230.505 0)
+			(at 83.82 222.25 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8619,7 +8619,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 104.14 230.505 0)
+			(at 83.82 222.25 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8660,7 +8660,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "100d8571-a9e8-4bae-8312-52aa7ac38044")
-		(property "Reference" "C11"
+		(property "Reference" "C8"
 			(at 169.291 64.8716 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8723,7 +8723,7 @@
 		(instances
 			(project "RP2354B_core"
 				(path "/94683f5c-9cd9-448e-be96-9792537b5cb8"
-					(reference "C11")
+					(reference "C8")
 					(unit 1)
 				)
 			)
@@ -8740,7 +8740,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1f56dccc-5777-4772-836a-6e5e3a2d1e3a")
-		(property "Reference" "C13"
+		(property "Reference" "C10"
 			(at 242.951 64.8716 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8803,7 +8803,7 @@
 		(instances
 			(project "RP2354B_core"
 				(path "/94683f5c-9cd9-448e-be96-9792537b5cb8"
-					(reference "C13")
+					(reference "C10")
 					(unit 1)
 				)
 			)
@@ -8820,7 +8820,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "258c4816-45ff-4431-9120-72ed127013b5")
-		(property "Reference" "C21"
+		(property "Reference" "C17"
 			(at 322.961 64.8716 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8883,7 +8883,7 @@
 		(instances
 			(project "RP2354B_core"
 				(path "/94683f5c-9cd9-448e-be96-9792537b5cb8"
-					(reference "C21")
+					(reference "C17")
 					(unit 1)
 				)
 			)
@@ -8900,7 +8900,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "28538623-c337-443c-8595-2034206c9cf8")
-		(property "Reference" "#PWR014"
+		(property "Reference" "#PWR06"
 			(at 119.38 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -8959,7 +8959,7 @@
 		(instances
 			(project "RP2354B_core"
 				(path "/94683f5c-9cd9-448e-be96-9792537b5cb8"
-					(reference "#PWR014")
+					(reference "#PWR06")
 					(unit 1)
 				)
 			)
@@ -8967,7 +8967,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 97.79 230.505 0)
+		(at 77.47 222.25 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8976,8 +8976,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "348691a1-5df6-415b-9ef3-b4ff4946476c")
-		(property "Reference" "#PWR09"
-			(at 97.79 236.855 0)
+		(property "Reference" "#PWR02"
+			(at 77.47 228.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8988,7 +8988,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 93.98 231.775 0)
+			(at 73.66 223.52 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8998,7 +8998,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 97.79 230.505 0)
+			(at 77.47 222.25 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9009,7 +9009,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 97.79 230.505 0)
+			(at 77.47 222.25 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9020,7 +9020,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 97.79 230.505 0)
+			(at 77.47 222.25 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9035,7 +9035,7 @@
 		(instances
 			(project "RP2354B_core"
 				(path "/94683f5c-9cd9-448e-be96-9792537b5cb8"
-					(reference "#PWR09")
+					(reference "#PWR02")
 					(unit 1)
 				)
 			)
@@ -9053,7 +9053,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "49804f0b-88e0-4255-82cf-7a091749a988")
-		(property "Reference" "C9"
+		(property "Reference" "C6"
 			(at 157.48 93.98 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9116,7 +9116,7 @@
 		(instances
 			(project "RP2354B_core"
 				(path "/94683f5c-9cd9-448e-be96-9792537b5cb8"
-					(reference "C9")
+					(reference "C6")
 					(unit 1)
 				)
 			)
@@ -9214,7 +9214,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "59b2e36a-2d44-46bd-9766-eb99e2b3298c")
-		(property "Reference" "#PWR018"
+		(property "Reference" "#PWR07"
 			(at 143.51 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -9273,7 +9273,7 @@
 		(instances
 			(project "RP2354B_core"
 				(path "/94683f5c-9cd9-448e-be96-9792537b5cb8"
-					(reference "#PWR018")
+					(reference "#PWR07")
 					(unit 1)
 				)
 			)
@@ -9291,7 +9291,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7ae3837d-a2a5-42d5-abc4-4d25b391c9b6")
-		(property "Reference" "#PWR019"
+		(property "Reference" "#PWR04"
 			(at 107.95 124.46 0)
 			(hide yes)
 			(show_name no)
@@ -9350,7 +9350,7 @@
 		(instances
 			(project "RP2354B_core"
 				(path "/94683f5c-9cd9-448e-be96-9792537b5cb8"
-					(reference "#PWR019")
+					(reference "#PWR04")
 					(unit 1)
 				)
 			)
@@ -9367,7 +9367,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "81701cb7-44d0-445b-99a5-4b9d9128e7b3")
-		(property "Reference" "#PWR020"
+		(property "Reference" "#PWR09"
 			(at 175.26 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -9426,7 +9426,7 @@
 		(instances
 			(project "RP2354B_core"
 				(path "/94683f5c-9cd9-448e-be96-9792537b5cb8"
-					(reference "#PWR020")
+					(reference "#PWR09")
 					(unit 1)
 				)
 			)
@@ -9444,7 +9444,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "838f2f8a-cee7-4869-ad9a-fcfb64bc990a")
-		(property "Reference" "C7"
+		(property "Reference" "C4"
 			(at 123.19 106.68 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9507,7 +9507,7 @@
 		(instances
 			(project "RP2354B_core"
 				(path "/94683f5c-9cd9-448e-be96-9792537b5cb8"
-					(reference "C7")
+					(reference "C4")
 					(unit 1)
 				)
 			)
@@ -9524,7 +9524,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9c77ddd7-0f01-4a10-8d25-561e0b821e2b")
-		(property "Reference" "C8"
+		(property "Reference" "C5"
 			(at 146.431 64.8716 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9587,7 +9587,7 @@
 		(instances
 			(project "RP2354B_core"
 				(path "/94683f5c-9cd9-448e-be96-9792537b5cb8"
-					(reference "C8")
+					(reference "C5")
 					(unit 1)
 				)
 			)
@@ -9604,7 +9604,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a3ec68e2-704d-404c-97b0-00421b9ff8a8")
-		(property "Reference" "R3"
+		(property "Reference" "R2"
 			(at 141.0716 88.392 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9667,7 +9667,7 @@
 		(instances
 			(project "RP2354B_core"
 				(path "/94683f5c-9cd9-448e-be96-9792537b5cb8"
-					(reference "R3")
+					(reference "R2")
 					(unit 1)
 				)
 			)
@@ -9684,7 +9684,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "afc5815d-d894-4cd1-ba9b-a5ec9f40998e")
-		(property "Reference" "C10"
+		(property "Reference" "C7"
 			(at 157.861 64.8716 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9747,7 +9747,7 @@
 		(instances
 			(project "RP2354B_core"
 				(path "/94683f5c-9cd9-448e-be96-9792537b5cb8"
-					(reference "C10")
+					(reference "C7")
 					(unit 1)
 				)
 			)
@@ -9764,7 +9764,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b060e775-6caf-44e0-a80c-ff2a742dcae8")
-		(property "Reference" "C12"
+		(property "Reference" "C9"
 			(at 230.886 64.8716 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9827,7 +9827,7 @@
 		(instances
 			(project "RP2354B_core"
 				(path "/94683f5c-9cd9-448e-be96-9792537b5cb8"
-					(reference "C12")
+					(reference "C9")
 					(unit 1)
 				)
 			)
@@ -10175,7 +10175,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cb0f1e5d-e572-4f44-8a4a-6f7f23812888")
-		(property "Reference" "C6"
+		(property "Reference" "C3"
 			(at 111.76 106.68 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10238,7 +10238,7 @@
 		(instances
 			(project "RP2354B_core"
 				(path "/94683f5c-9cd9-448e-be96-9792537b5cb8"
-					(reference "C6")
+					(reference "C3")
 					(unit 1)
 				)
 			)
@@ -10256,7 +10256,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d0516a11-f468-4102-8541-961bef0ebd4e")
-		(property "Reference" "#PWR025"
+		(property "Reference" "#PWR012"
 			(at 320.04 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -10315,7 +10315,7 @@
 		(instances
 			(project "RP2354B_core"
 				(path "/94683f5c-9cd9-448e-be96-9792537b5cb8"
-					(reference "#PWR025")
+					(reference "#PWR012")
 					(unit 1)
 				)
 			)
@@ -10332,7 +10332,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "dc9ecc86-ce71-4913-a3db-d8bc97f691bf")
-		(property "Reference" "#PWR013"
+		(property "Reference" "#PWR03"
 			(at 107.95 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -10391,7 +10391,7 @@
 		(instances
 			(project "RP2354B_core"
 				(path "/94683f5c-9cd9-448e-be96-9792537b5cb8"
-					(reference "#PWR013")
+					(reference "#PWR03")
 					(unit 1)
 				)
 			)
@@ -10408,7 +10408,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ea0745aa-18cf-42ae-a5f3-747623813a85")
-		(property "Reference" "#PWR016"
+		(property "Reference" "#PWR08"
 			(at 153.67 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -10467,7 +10467,7 @@
 		(instances
 			(project "RP2354B_core"
 				(path "/94683f5c-9cd9-448e-be96-9792537b5cb8"
-					(reference "#PWR016")
+					(reference "#PWR08")
 					(unit 1)
 				)
 			)
@@ -10475,7 +10475,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 110.49 230.505 0)
+		(at 90.17 222.25 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10484,8 +10484,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "fc436037-d906-40fc-9bc2-8fb4a180e6ff")
-		(property "Reference" "#PWR012"
-			(at 110.49 236.855 0)
+		(property "Reference" "#PWR05"
+			(at 90.17 228.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10496,7 +10496,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 114.3 231.775 0)
+			(at 93.98 223.52 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10506,7 +10506,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 110.49 230.505 0)
+			(at 90.17 222.25 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10517,7 +10517,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 110.49 230.505 0)
+			(at 90.17 222.25 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10528,7 +10528,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 110.49 230.505 0)
+			(at 90.17 222.25 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10543,7 +10543,7 @@
 		(instances
 			(project "RP2354B_core"
 				(path "/94683f5c-9cd9-448e-be96-9792537b5cb8"
-					(reference "#PWR012")
+					(reference "#PWR05")
 					(unit 1)
 				)
 			)
